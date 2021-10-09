@@ -1366,6 +1366,10 @@ main {
   background-image: url(../images/facebook.svg);
 }
 
+.hero__title {
+  font-size: 35px;
+}
+
 @media (min-width: 480px) {
   /******************************************************************
 
